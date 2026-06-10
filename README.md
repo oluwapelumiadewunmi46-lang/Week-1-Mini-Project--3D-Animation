@@ -43,3 +43,8 @@ The smooth movement and clear action make the animation visually appealing.
 ## Conclusion
 
 A bouncing ball is a simple but powerful exercise that demonstrates all 12 Principles of Animation. Understanding these principles provides a foundation for creating more complex animations.
+
+
+## Screenshot 
+
+![BounceIllustationimage.png]
